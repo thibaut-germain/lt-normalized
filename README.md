@@ -20,9 +20,9 @@ The Z-normalized Euclidean distance is considered the reference distance in many
 
 ## Functionalities
 
-- Paper's experimental results can be found in the jupyter notebook [experiment_results_paper.ipynb](https://github.com/thibaut-germain/lt-normalized/experiment_results.ipynb)
+- Paper's experimental results can be found in the jupyter notebook [experiment_results_paper.ipynb](https://github.com/thibaut-germain/lt-normalized/blob/main/experiment_results.ipynb)
 - Paper's illustration can be found in the jupyter notebook [paper_illustration.ipynb](https://github.com/thibaut-germain/lt-normalized/paper_illustration.ipynb)
-- Similarity search or best motif pair experiments can be run directly from the jupyter notebook [experiment_results_paper.ipynb](https://github.com/thibaut-germain/lt-normalized/experiment_results.ipynb)
+- Similarity search or best motif pair experiments can be run directly from the jupyter notebook [experiment_results_paper.ipynb](https://github.com/thibaut-germain/lt-normalized/blob/main/experiment_results.ipynb)
 - To run motif discovery or scalability experiment, use the following command from the root folder:
   ```(bash)
   python experiment/script_<expname>.py
@@ -38,7 +38,7 @@ The Z-normalized Euclidean distance is considered the reference distance in many
 ```(bash) 
 https://drive.google.com/file/d/1tfOXKbk7rhAqF4jzuMkrgklcYU3qtWzY/view?usp=sharing
 ```
-2. All python packages needed are listed in [requirements.txt](https://github.com/thibaut-germain/Persistent-Pattern-Discovery/requirements.txt) file and can be installed simply using the pip command: 
+2. All python packages needed are listed in [requirements.txt](https://github.com/thibaut-germain/lt-normalized/blob/main/requirements.txt) file and can be installed simply using the pip command: 
 
 ```(bash) 
 conda create --name perspa --file requirements.txt
