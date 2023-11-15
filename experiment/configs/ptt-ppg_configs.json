@@ -1,0 +1,1 @@
+{"MatrixProfile": "[{\"distance_name\": \"LTNormalizedEuclidean\", \"n_jobs\": 10, \"n_patterns\": 5, \"radius_ratio\": 3, \"wlen\": 320}, {\"distance_name\": \"NormalizedEuclidean\", \"n_jobs\": 10, \"n_patterns\": 5, \"radius_ratio\": 3, \"wlen\": 320}]"}
