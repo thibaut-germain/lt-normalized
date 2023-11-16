@@ -27,7 +27,7 @@ The Z-normalized Euclidean distance is considered the reference distance in many
   ```(bash)
   python experiment/script_<expname>.py
   ```
-  If all experiments are re-run, the new results can be displayed with the jupyter notebook [exp_results_paper.ipynb](https://github.com/thibaut-germain/lt-normalized/blob/main/experiment_results.ipynb)
+  If experiments are re-run, the new results can be displayed with the jupyter notebook [exp_results_paper.ipynb](https://github.com/thibaut-germain/lt-normalized/blob/main/experiment_results.ipynb)
 
 
 
