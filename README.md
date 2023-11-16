@@ -21,13 +21,13 @@ The Z-normalized Euclidean distance is considered the reference distance in many
 ## Functionalities
 
 - Paper's experimental results can be found in the jupyter notebook [experiment_results_paper.ipynb](https://github.com/thibaut-germain/lt-normalized/blob/main/experiment_results.ipynb)
-- Paper's illustration can be found in the jupyter notebook [paper_illustration.ipynb](https://github.com/thibaut-germain/lt-normalized/paper_illustration.ipynb)
+- Paper's illustration can be found in the jupyter notebook [paper_illustration.ipynb](https://github.com/thibaut-germain/lt-normalized/blob/main/paper_illustration.ipynb)
 - Similarity search or best motif pair experiments can be run directly from the jupyter notebook [experiment_results_paper.ipynb](https://github.com/thibaut-germain/lt-normalized/blob/main/experiment_results.ipynb)
 - To run motif discovery or scalability experiment, use the following command from the root folder:
   ```(bash)
   python experiment/script_<expname>.py
   ```
-  If all experiments are re-run, the new results can be displayed with the jupyter notebook [exp_results_paper.ipynb](https://github.com/thibaut-germain/lt-normalized/experiment_results.ipynb)
+  If all experiments are re-run, the new results can be displayed with the jupyter notebook [exp_results_paper.ipynb](https://github.com/thibaut-germain/lt-normalized/blob/main/experiment_results.ipynb)
 
 
 
